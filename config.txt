@@ -1,0 +1,3 @@
+NIK|NAMA LENGKAP
+12345|Rafli kurniawan
+123456789|abcde

@@ -1,0 +1,12 @@
+
+0718|Anhar|2022-03-10|14:20|Rusia|33.32 Celcius
+12345|Rafli kurniawan|2022-03-20|09:30|jogja|normal
+12345|Rafli kurniawan|2022-03-03|09:33|jogja|normal
+12345|Rafli kurniawan|2022-03-08|00:42|jogja|normal
+12345|Rafli kurniawan|2022-03-08|22:42|rusia|normal
+12345|Rafli kurniawan|2022-03-11|00:35|jogja|normal
+12345|Rafli kurniawan|2022-03-05|11:52|jogja|normal
+123456789|abcde|2022-03-15|2022-03-16|giu|1
+123456789|abcde|2022-03-16|2022-03-18|diego|1
+
+123456789|abcde|2022-03-17|2022-03-19|delon|2
